@@ -67,6 +67,14 @@ function ProductList() {
           cost: "$14",
           added: false,
         },
+        {
+          name: "Aloe Vera",
+          image:
+            "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+          description: "Purifies the air and has healing properties for skin.",
+          cost: "$14",
+          added: false,
+        },
       ],
     },
     {
